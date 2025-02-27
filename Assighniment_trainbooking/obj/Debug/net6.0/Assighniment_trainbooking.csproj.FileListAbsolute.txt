@@ -1,0 +1,14 @@
+D:\DotNetTraining\Assighniment_trainbooking\bin\Debug\net6.0\Assighniment_trainbooking.exe
+D:\DotNetTraining\Assighniment_trainbooking\bin\Debug\net6.0\Assighniment_trainbooking.deps.json
+D:\DotNetTraining\Assighniment_trainbooking\bin\Debug\net6.0\Assighniment_trainbooking.runtimeconfig.json
+D:\DotNetTraining\Assighniment_trainbooking\bin\Debug\net6.0\Assighniment_trainbooking.dll
+D:\DotNetTraining\Assighniment_trainbooking\bin\Debug\net6.0\Assighniment_trainbooking.pdb
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.AssemblyInfoInputs.cache
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.AssemblyInfo.cs
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.dll
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\refint\Assighniment_trainbooking.dll
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.pdb
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\Assighniment_trainbooking.genruntimeconfig.cache
+D:\DotNetTraining\Assighniment_trainbooking\obj\Debug\net6.0\ref\Assighniment_trainbooking.dll

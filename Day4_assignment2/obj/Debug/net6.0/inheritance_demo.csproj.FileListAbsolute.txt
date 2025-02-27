@@ -1,0 +1,14 @@
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.AssemblyInfoInputs.cache
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.AssemblyInfo.cs
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\inheritance_demo\bin\Debug\net6.0\inheritance_demo.exe
+D:\DotNetTraining\inheritance_demo\bin\Debug\net6.0\inheritance_demo.deps.json
+D:\DotNetTraining\inheritance_demo\bin\Debug\net6.0\inheritance_demo.runtimeconfig.json
+D:\DotNetTraining\inheritance_demo\bin\Debug\net6.0\inheritance_demo.dll
+D:\DotNetTraining\inheritance_demo\bin\Debug\net6.0\inheritance_demo.pdb
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.dll
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\refint\inheritance_demo.dll
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.pdb
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\inheritance_demo.genruntimeconfig.cache
+D:\DotNetTraining\inheritance_demo\obj\Debug\net6.0\ref\inheritance_demo.dll

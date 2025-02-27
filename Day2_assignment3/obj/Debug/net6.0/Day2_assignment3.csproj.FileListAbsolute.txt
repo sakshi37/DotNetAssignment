@@ -1,0 +1,14 @@
+D:\DotNetTraining\Assignment\Day2_assignment3\bin\Debug\net6.0\Day2_assignment3.exe
+D:\DotNetTraining\Assignment\Day2_assignment3\bin\Debug\net6.0\Day2_assignment3.deps.json
+D:\DotNetTraining\Assignment\Day2_assignment3\bin\Debug\net6.0\Day2_assignment3.runtimeconfig.json
+D:\DotNetTraining\Assignment\Day2_assignment3\bin\Debug\net6.0\Day2_assignment3.dll
+D:\DotNetTraining\Assignment\Day2_assignment3\bin\Debug\net6.0\Day2_assignment3.pdb
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.AssemblyInfoInputs.cache
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.AssemblyInfo.cs
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.dll
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\refint\Day2_assignment3.dll
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.pdb
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\Day2_assignment3.genruntimeconfig.cache
+D:\DotNetTraining\Assignment\Day2_assignment3\obj\Debug\net6.0\ref\Day2_assignment3.dll

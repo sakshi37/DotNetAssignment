@@ -1,0 +1,14 @@
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.AssemblyInfoInputs.cache
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.AssemblyInfo.cs
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\assigninment day2\bin\Debug\net6.0\assigninment day2.exe
+D:\DotNetTraining\assigninment day2\bin\Debug\net6.0\assigninment day2.deps.json
+D:\DotNetTraining\assigninment day2\bin\Debug\net6.0\assigninment day2.runtimeconfig.json
+D:\DotNetTraining\assigninment day2\bin\Debug\net6.0\assigninment day2.dll
+D:\DotNetTraining\assigninment day2\bin\Debug\net6.0\assigninment day2.pdb
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.dll
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\refint\assigninment day2.dll
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.pdb
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\assigninment day2.genruntimeconfig.cache
+D:\DotNetTraining\assigninment day2\obj\Debug\net6.0\ref\assigninment day2.dll
