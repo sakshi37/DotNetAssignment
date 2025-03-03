@@ -14,11 +14,8 @@ namespace Task2
 
             for (int i=1; i<=num;i++)
             {
-                Console.WriteLine("enter key for your course");
+                Console.WriteLine("enter Student id for your course");
                 int key =Convert.ToInt32( Console.ReadLine());
-
-                Console.WriteLine("Enter the name of your Course");
-                String course = Console.ReadLine();
 
                 if (student.Contains(key))
                 {
@@ -27,8 +24,14 @@ namespace Task2
                 }
                 else
                 {
+                    Console.WriteLine("Enter the name of your Course");
+                    String course = Console.ReadLine();
+
                     student.Add(key, course);
                 }
+
+                
+
             }
 
         }
