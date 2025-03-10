@@ -179,7 +179,7 @@ group by c.CustomerID
 
 
 --Find the books ordered along with the quantity for each order. 
-select o.OrderID , sum(i.Quantity)
+select o.OrderID , sum(i.Quantity) as total
 from Orders o 
 join OrderItems i on o.OrderID = i.OrderID
 group by o.OrderID 
@@ -195,3 +195,52 @@ Select * from Books
 select title,Price
 from Books 
 where Price = (select max(Price) from Books)
+
+--Find the customer(s) who placed the first order (earliest OrderDate). 
+
+   select* from Customer where CustomerID = (select CustomerID from Orders where OrderDate = (select min(OrderDate)  from Orders o))
+
+-- Find the customer(s) who placed the most orders. 
+
+select * from Orders
+select * from Customer
+
+ select  * from customer  where  CustomerID =(select TOP 1 CustomerID from Orders Group by CustomerID Order by count(CustomerID) DESC)
+
+--Find customers who have not placed any orders.
+SELECT * FROM Customer WHERE CustomerId NOT IN (SELECT CustomerId FROM Orders)
+
+--Retrieve all books cheaper than the most expensive book written by(any author based on your data) 
+SELECT * FROM Books WHERE Price < (SELECT MAX(Price) FROM Books)
+
+--List all customers whose total spending is greater than the average spending of all customers
+SELECT Customer.CustomerId, Name, TotalAmount FROM Customer JOIN Orders ON Customer.CustomerId = Orders.CustomerId WHERE Customer.CustomerId IN (SELECT CustomerId FROM Orders WHERE TotalAmount >(SELECT AVG(TotalAmount) FROM Orders))
+
+--Write a stored procedure that accepts a CustomerID and returns all orders placed by that customer 
+CREATE PROC OrderDetailByCustomerId 
+@Id int
+AS
+BEGIN
+	SELECT * FROM Orders WHERE CustomerId = @Id
+END
+
+EXEC OrderDetailByCustomerId 3
+
+--Create a procedure that accepts MinPrice and MaxPrice as parameters and returns all books within that range
+CREATE PROC GetBookByMinAndMaxPrice
+@MinPrice int,
+@MaxPrice int
+AS
+BEGIN 
+	SELECT * FROM Books WHERE Price BETWEEN @MinPrice AND @MaxPrice
+END
+
+EXEC GetBookByMinAndMaxPrice 100, 250
+
+
+--Create a view named that shows only books that are publicded after 2015, including BookID, Title, AuthorID, Price, and PublishedYear 
+CREATE VIEW BookPublishedBefore2015
+AS
+	SELECT * FROM Books WHERE year (PublishedYear) > 2015
+
+SELECT * FROM BookPublishedBefore2015
